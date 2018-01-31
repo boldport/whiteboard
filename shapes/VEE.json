@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont",
+          "location": [0,0],
+          "font-size": "2.4mm",
+          "rotate": 0,
+          "style": "fill",
+          "line-height": "2.54mm",
+          "type": "text",
+          "value": "GND"
+
+        }
+
+
+      ]
+    }
+  }
+}

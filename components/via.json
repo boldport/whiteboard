@@ -1,0 +1,57 @@
+{
+  "pins":
+  {
+  "1":
+    {
+      "layout":
+      {
+	    "pad": "pin",
+	    "location": [0, 0],
+      "rotate": 0,
+      "label": "1"
+      }
+    }
+  },
+  "layout":
+  {
+    "assembly":
+    {
+      "shapes":
+      [
+      ]
+    }
+  },
+  "pads":
+  {
+    "pin":
+    {
+
+      "shapes":
+      [
+        {
+          "soldermask":{},
+          "layers": ["top"],
+          "type": "circle",
+          "outline": 0,
+          "diameter": 1.2,
+          "offset": [0, 0]
+        },
+        {
+          "soldermask":{},
+          "layers": ["bottom"],
+          "buffer-to-pour": 0.0,
+          "type": "circle",
+          "outline": 0,
+          "diameter": 1.2,
+          "offset": [0, 0]
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.6
+        }
+      ]
+    }
+  }
+}
